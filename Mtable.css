@@ -1,0 +1,11 @@
+table, td {
+            border-collapse: collapse;
+            text-align: center;
+	    border: 5px solid black;
+	    background-color: #ADD8E6;
+	    padding: 10px;
+         }
+
+button 	{ 
+	   background-color: #FDFBD4;
+	}
